@@ -1,0 +1,16 @@
+body {background-color: cadetblue;
+ color:aliceblue;
+ font-size: 25px;
+}
+h1 {
+background-color: slateblue;
+}
+
+#home {
+ color: blue;
+ width: 5px;
+}
+
+#home:hover {
+ color: whitesmoke;
+  }
